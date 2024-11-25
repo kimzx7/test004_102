@@ -44,27 +44,27 @@
             // 
             // button1
             // 
-            button1.Location = new Point(12, 12);
+            button1.Location = new Point(12, 57);
             button1.Name = "button1";
             button1.Size = new Size(96, 75);
             button1.TabIndex = 0;
-            button1.Text = "button1";
+            button1.Text = "test1";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
             // button2
             // 
-            button2.Location = new Point(12, 93);
+            button2.Location = new Point(12, 208);
             button2.Name = "button2";
             button2.Size = new Size(96, 60);
             button2.TabIndex = 1;
-            button2.Text = "button2";
+            button2.Text = "test2";
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(169, 57);
+            textBox1.Location = new Point(169, 60);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(224, 381);
@@ -86,7 +86,7 @@
             button3.Name = "button3";
             button3.Size = new Size(141, 75);
             button3.TabIndex = 4;
-            button3.Text = "button3";
+            button3.Text = "บันทึก";
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
@@ -110,21 +110,21 @@
             // 
             // button4
             // 
-            button4.Location = new Point(399, 218);
+            button4.Location = new Point(399, 255);
             button4.Name = "button4";
             button4.Size = new Size(141, 75);
             button4.TabIndex = 7;
-            button4.Text = "button4";
+            button4.Text = "บันทึกแค่เลข";
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
             // button5
             // 
-            button5.Location = new Point(12, 159);
+            button5.Location = new Point(12, 316);
             button5.Name = "button5";
             button5.Size = new Size(96, 60);
             button5.TabIndex = 8;
-            button5.Text = "button5";
+            button5.Text = "test3";
             button5.UseVisualStyleBackColor = true;
             button5.Click += button5_Click;
             // 
